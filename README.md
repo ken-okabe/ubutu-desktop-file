@@ -1,5 +1,5 @@
 ```
-cho "Please enter some input: "
+echo "Please enter some input: "
 node -v
 read input_variable
 echo "You entered: $input_variable"
