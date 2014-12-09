@@ -1,6 +1,6 @@
 ```
-echo "Please enter some input: "
 node -v
+echo "Please enter some input: "
 read input_variable
 echo "You entered: $input_variable"
 node '/home/ken/Google Drive/js-bin/app.js'
